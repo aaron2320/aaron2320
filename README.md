@@ -9,3 +9,4 @@ I'm Aaron Brown, a passionate developer who loves coding and learning new techno
 - 📫 Reach me at [aaron2320@gmail.com](mailto:aaron2320@gmail.com).
 
 - ![Image (4)](https://github.com/user-attachments/assets/f30c3d05-3880-4da2-8421-e64bc77844ec)
+![Image (11)](https://github.com/user-attachments/assets/a1e7d15d-c2b5-4d4f-86b7-fb829769277a)
