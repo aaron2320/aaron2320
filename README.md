@@ -4,11 +4,11 @@ I'm Aaron Brown, a passionate developer who loves coding and learning new techno
 
 https://aaron2320.github.io/se_project_coffeeshop/        
 https://aaron2320.github.io/se_project_spots/                
-https://aaron2320.happyforever.com/               
+https://aaron2320.mooo.com/               
 https://aaron2320.github.io/news_explorer_frontend/
   
 - 🔭 I’m currently working on **awesome projects**. I build apps end-to-end, test, and deploy
-- 🌱 I have learned **HTML, CSS, Javascript, Git, GitHub, VSCode, Figma, React, Node.js, MongoDB, Express, API, Automation and AI**.
+- 🌱 I have learned **HTML, CSS, Javascript, Git, GitHub, VSCode, Figma, React, Node.js, MongoDB, Express, API, Frontend and Backend, Linux, Automation and AI**.
 - 💬 Ask me about **Web Development, Open Source & Full Stack**.
 - 📫 Reach me at [aaron2320@gmail.com](mailto:aaron2320@gmail.com).
 
