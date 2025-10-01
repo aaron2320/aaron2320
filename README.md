@@ -4,7 +4,6 @@ I'm Aaron Brown, a passionate developer who loves coding and learning new techno
 
 https://aaron2320.github.io/se_project_coffeeshop/        
 https://aaron2320.github.io/se_project_spots/
-
 https://voip2320.com/               
 https://aaron2320.github.io/news_explorer_frontend/
   
